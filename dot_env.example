@@ -1,0 +1,53 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# Secure GraphRAG Platform - MCP Server Demo Configuration
+# ═══════════════════════════════════════════════════════════════════════════
+
+# -- Required Secrets (no defaults - must be set) --
+# NEO4J_ADMIN_PASSWORD=your-secure-password-here
+# PRIVATEMODE_API_KEY=your-privatemode-api-key-here
+
+NEO4J_ADMIN_PASSWORD="neo4j&edgeless"
+PRIVATEMODE_API_KEY=29197390-9e2a-423a-9523-a4f2ce7f4919
+
+# -- Neo4j Connection --
+# NEO4J_URI=bolt+ssc://localhost:7688
+
+# -- Neo4j User Passwords (optional, have defaults) --
+# NEO4J_ALICE_PASSWORD=secure-p@ssword-One
+# NEO4J_BOB_PASSWORD=secure-p@ssword-Two
+
+# -- MCP Server (mcp_demo.py) --
+# MCP_BASE_URL=https://localhost:443
+# MCP_CERT_PATH=./mcp/certs/localhost-cert.pem
+# MCP_VERIFY_SSL=false
+# MCP_TIMEOUT=120
+# NEO4J_ADMIN_USERNAME=neo4j
+# NEO4J_USERNAME=bob
+# NEO4J_PASSWORD=secure-p@ssword-Two
+# SCHEMA_SAMPLE_SIZE=100
+# DEMO_QUESTION=What are the engineering compensation bands?
+
+# -- Privatemode Proxy --
+# PRIVATEMODE_BASE_URL=https://localhost:8089/v1
+# PRIVATEMODE_CA_CERT=./privatemode/certs/localhost-cert.pem
+# PRIVATEMODE_TIMEOUT=120
+
+# -- Models --
+# EMBEDDING_MODEL=qwen3-embedding-4b
+# CHAT_MODEL=gpt-oss-120b
+
+# -- Query Settings --
+# VECTOR_TOP_K=5
+# GRAPH_TOP_K_ENTITIES=10
+# GRAPH_NEIGHBOR_LIMIT=5
+# MAX_GRAPH_HOPS=2
+
+# -- Entity Extraction (extract_entities.py) --
+# BATCH_DELAY_SECONDS=0.5
+
+# -- Document Ingestion (ingest_pipeline.py) --
+# EMBEDDING_BATCH_SIZE=10
+# BATCH_DELAY_SECONDS=0.25
+
+# -- Optional: Timezone --
+TZ=CET

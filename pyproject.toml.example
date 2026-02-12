@@ -1,0 +1,7 @@
+[project]
+name = "neo4j-edgeless-blog"
+version = "0.1.0"
+description = "Neo4j / Edgeless GraphRAG Backend Blog Demo"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["OpenAI","httpx","neo4j","requests","python-dotenv"]
