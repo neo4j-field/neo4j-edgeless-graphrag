@@ -1,0 +1,502 @@
+[
+  {
+    "doc_id": "doc-001",
+    "title": "Q4 2025 Revenue Forecast",
+    "content": "Quarterly financial projections show 15% YoY revenue growth driven by enterprise SaaS renewals and expansion into APAC markets. ARR is expected to reach $48M by end of Q4.",
+    "classification": "confidential",
+    "department": "finance",
+    "executive_access": true,
+    "access_groups": ["finance-team", "executives"],
+    "doc_type": "forecast"
+  },
+  {
+    "doc_id": "doc-002",
+    "title": "Annual Budget 2026 Draft",
+    "content": "The proposed 2026 budget allocates 40% to R&D, 25% to sales and marketing, 20% to operations, and 15% to G&A. Total OpEx is projected at $62M, a 12% increase over 2025.",
+    "classification": "confidential",
+    "department": "finance",
+    "executive_access": true,
+    "access_groups": ["finance-team", "executives"],
+    "doc_type": "budget"
+  },
+  {
+    "doc_id": "doc-003",
+    "title": "Travel & Expense Policy",
+    "content": "All business travel must be pre-approved by department heads. Economy class is standard for flights under 6 hours. Daily meal allowance is $75 domestic, $100 international.",
+    "classification": "internal",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team", "all-employees"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-004",
+    "title": "Accounts Receivable Aging Report — January 2026",
+    "content": "Total outstanding receivables stand at $8.2M. 60% are within 30-day terms, 25% are 31–60 days, and 15% exceed 60 days. Three enterprise accounts require escalation.",
+    "classification": "confidential",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team"],
+    "doc_type": "report"
+  },
+  {
+    "doc_id": "doc-005",
+    "title": "Series C Funding Term Sheet Summary",
+    "content": "The Series C round closed at $120M, led by Sovereign Ventures. Post-money valuation is $850M. Liquidation preference is 1x non-participating. Board adds one investor seat.",
+    "classification": "restricted",
+    "department": "finance",
+    "executive_access": true,
+    "access_groups": ["finance-leadership", "executives", "legal"],
+    "doc_type": "term-sheet"
+  },
+  {
+    "doc_id": "doc-006",
+    "title": "Monthly Cash Flow Statement — December 2025",
+    "content": "Operating cash flow was $3.1M. Capital expenditures totaled $0.9M, primarily for data center GPU capacity. Free cash flow positive for the third consecutive month.",
+    "classification": "confidential",
+    "department": "finance",
+    "executive_access": true,
+    "access_groups": ["finance-team", "executives"],
+    "doc_type": "statement"
+  },
+  {
+    "doc_id": "doc-007",
+    "title": "Tax Compliance Checklist 2025",
+    "content": "All federal and state filings are current. R&D tax credit documentation has been compiled for $2.4M in eligible expenses. Transfer pricing study for EU subsidiary is due March 15.",
+    "classification": "confidential",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team", "legal"],
+    "doc_type": "checklist"
+  },
+  {
+    "doc_id": "doc-008",
+    "title": "Vendor Payment Terms Overview",
+    "content": "Standard payment terms are Net-30 for domestic vendors and Net-45 for international. Cloud infrastructure invoices are on auto-pay. Annual SaaS renewals require procurement sign-off.",
+    "classification": "internal",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team", "procurement"],
+    "doc_type": "guide"
+  },
+  {
+    "doc_id": "doc-009",
+    "title": "Revenue Recognition Policy (ASC 606)",
+    "content": "Revenue from SaaS subscriptions is recognized ratably over the contract term. Professional services revenue is recognized upon milestone completion. Multi-element arrangements require SSP allocation.",
+    "classification": "internal",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-010",
+    "title": "Investor Relations FAQ — Public",
+    "content": "Our company is a graph intelligence platform provider serving over 1,200 enterprise customers. We are venture-backed and headquartered in Berlin with offices in San Francisco and Singapore.",
+    "classification": "public",
+    "department": "finance",
+    "executive_access": false,
+    "access_groups": ["finance-team", "marketing", "public"],
+    "doc_type": "faq"
+  },
+  {
+    "doc_id": "doc-011",
+    "title": "Employee Handbook 2026",
+    "content": "This handbook outlines company policies on work hours, remote work, PTO accrual, parental leave, and code of conduct. All employees must acknowledge receipt annually.",
+    "classification": "internal",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "all-employees"],
+    "doc_type": "handbook"
+  },
+  {
+    "doc_id": "doc-012",
+    "title": "Compensation Bands — Engineering 2026",
+    "content": "Senior Engineers (L5): $165K–$210K base + 15–25% bonus. Staff Engineers (L6): $200K–$260K base + 20–30% bonus. Principal Engineers (L7): $240K–$320K base + 25–40% bonus.",
+    "classification": "restricted",
+    "department": "hr",
+    "executive_access": true,
+    "access_groups": ["hr-leadership", "executives"],
+    "doc_type": "compensation"
+  },
+  {
+    "doc_id": "doc-013",
+    "title": "Diversity & Inclusion Report 2025",
+    "content": "Gender representation improved to 38% women company-wide, up from 34% in 2024. Engineering diversity hiring reached 42% of new hires from underrepresented groups.",
+    "classification": "public",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "public"],
+    "doc_type": "report"
+  },
+  {
+    "doc_id": "doc-014",
+    "title": "Performance Review Process Guide",
+    "content": "Annual reviews occur in Q1. Managers complete 360-degree feedback collection in January. Calibration sessions run in February. Final ratings and compensation adjustments are communicated in March.",
+    "classification": "internal",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "people-managers"],
+    "doc_type": "guide"
+  },
+  {
+    "doc_id": "doc-015",
+    "title": "Termination Procedures & Severance Policy",
+    "content": "Involuntary terminations require HR and legal review. Standard severance is 2 weeks per year of service, capped at 26 weeks. COBRA continuation must be offered within 14 days.",
+    "classification": "confidential",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "legal"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-016",
+    "title": "Headcount Plan Q1 2026",
+    "content": "Planned net new hires: Engineering +18, Sales +12, Marketing +5, Support +8, G&A +3. Total headcount target: 410 by end of Q1. Budget impact: $1.8M incremental quarterly payroll.",
+    "classification": "confidential",
+    "department": "hr",
+    "executive_access": true,
+    "access_groups": ["hr-leadership", "executives", "finance-team"],
+    "doc_type": "plan"
+  },
+  {
+    "doc_id": "doc-017",
+    "title": "Remote Work & Hybrid Policy",
+    "content": "Employees may work remotely up to 3 days per week. Core collaboration days are Tuesday and Thursday. Fully remote roles require VP approval and are limited to approved geographies.",
+    "classification": "internal",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "all-employees"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-018",
+    "title": "Workplace Harassment Investigation Report — Case HR-2025-047",
+    "content": "Investigation into reported harassment in the London office concluded on December 15, 2025. Findings substantiated the claim. Corrective actions include mandatory training and a written warning.",
+    "classification": "restricted",
+    "department": "hr",
+    "executive_access": true,
+    "access_groups": ["hr-leadership", "legal"],
+    "doc_type": "investigation"
+  },
+  {
+    "doc_id": "doc-019",
+    "title": "Benefits Enrollment Guide 2026",
+    "content": "Open enrollment runs January 15–31. Medical plans include PPO and HDHP options. Dental and vision are bundled. 401(k) match increases to 5% in 2026. FSA and HSA options available.",
+    "classification": "internal",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "all-employees"],
+    "doc_type": "guide"
+  },
+  {
+    "doc_id": "doc-020",
+    "title": "Careers Page Copy — Public",
+    "content": "Join a team building the future of graph intelligence. We offer competitive compensation, meaningful work, and a culture that values curiosity, collaboration, and impact.",
+    "classification": "public",
+    "department": "hr",
+    "executive_access": false,
+    "access_groups": ["hr-team", "marketing", "public"],
+    "doc_type": "marketing-copy"
+  },
+  {
+    "doc_id": "doc-021",
+    "title": "GraphRAG Architecture Design Document",
+    "content": "The GraphRAG pipeline combines vector similarity search with graph traversal. Documents are chunked, embedded via Privatemode's confidential Qwen3-Embedding-4B model, and stored in Neo4j with ABAC metadata for property-level access control.",
+    "classification": "confidential",
+    "department": "engineering",
+    "executive_access": true,
+    "access_groups": ["engineering", "architects", "executives"],
+    "doc_type": "design-doc"
+  },
+  {
+    "doc_id": "doc-022",
+    "title": "Incident Postmortem — Production Outage 2025-12-03",
+    "content": "Root cause: expired TLS certificate on the Bolt gateway caused all client connections to fail. Duration: 47 minutes. Impact: 100% of API traffic. Remediation: automated cert rotation via cert-manager with 30-day pre-expiry alerts.",
+    "classification": "internal",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "sre-team"],
+    "doc_type": "postmortem"
+  },
+  {
+    "doc_id": "doc-023",
+    "title": "Neo4j Cluster Deployment Runbook",
+    "content": "Production cluster runs 3 core + 2 read replica topology. TLS is enforced on Bolt, HTTPS, backup, and intra-cluster channels. Authentication uses LDAP-backed SSO with Okta. Backups run every 6 hours to encrypted S3 buckets.",
+    "classification": "confidential",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "sre-team", "dba-team"],
+    "doc_type": "runbook"
+  },
+  {
+    "doc_id": "doc-024",
+    "title": "API Rate Limiting Strategy",
+    "content": "Rate limits are enforced per API key: Free tier 100 req/min, Pro tier 1,000 req/min, Enterprise tier 10,000 req/min. Limits are applied at the API gateway using sliding window counters.",
+    "classification": "internal",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "product"],
+    "doc_type": "design-doc"
+  },
+  {
+    "doc_id": "doc-025",
+    "title": "Privatemode Integration Guide",
+    "content": "All LLM inference and embedding calls route through the local Privatemode proxy. The proxy performs remote attestation of the Contrast Coordinator, exchanges AES-GCM keys with attested workers, and encrypts prompts end-to-end before network transmission.",
+    "classification": "confidential",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "security-team"],
+    "doc_type": "integration-guide"
+  },
+  {
+    "doc_id": "doc-026",
+    "title": "Open Source Contribution Guidelines",
+    "content": "Employees may contribute to open source projects with manager approval. Contributions must not include proprietary code. Use your personal GitHub account. CLA required for Neo4j ecosystem projects.",
+    "classification": "public",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "public"],
+    "doc_type": "guidelines"
+  },
+  {
+    "doc_id": "doc-027",
+    "title": "Security Vulnerability Response Playbook",
+    "content": "CVEs rated Critical or High must be triaged within 4 hours. Patches for Critical vulnerabilities must be deployed within 24 hours. All findings are tracked in the SBOM-linked graph for dependency analysis.",
+    "classification": "confidential",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "security-team"],
+    "doc_type": "playbook"
+  },
+  {
+    "doc_id": "doc-028",
+    "title": "MCP Server Configuration for Neo4j Cypher",
+    "content": "The mcp-neo4j-cypher server exposes read_cypher, write_cypher, and get_neo4j_schema tools. Deploy via Docker with TLS-enabled Bolt connection. Set NEO4J_READ_ONLY=true for analyst-facing instances. Token limit prevents context overflow in LLM agents.",
+    "classification": "internal",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "data-team"],
+    "doc_type": "configuration"
+  },
+  {
+    "doc_id": "doc-029",
+    "title": "Platform Roadmap H1 2026 — Engineering",
+    "content": "Key deliverables: native VECTOR type migration (Feb), Cypher 25 adoption across all services (Mar), MCP server federation for multi-database agents (Apr), ABAC policy engine v2 with label-security integration (May).",
+    "classification": "confidential",
+    "department": "engineering",
+    "executive_access": true,
+    "access_groups": ["engineering", "product", "executives"],
+    "doc_type": "roadmap"
+  },
+  {
+    "doc_id": "doc-030",
+    "title": "Developer Onboarding Checklist",
+    "content": "New engineers complete: Neo4j Certified Professional course, Cypher fundamentals lab, security awareness training, Privatemode confidential computing overview, and a paired code review in the first 2 weeks.",
+    "classification": "internal",
+    "department": "engineering",
+    "executive_access": false,
+    "access_groups": ["engineering", "hr-team"],
+    "doc_type": "checklist"
+  },
+  {
+    "doc_id": "doc-031",
+    "title": "Data Processing Agreement (DPA) Template",
+    "content": "Standard DPA for enterprise customers covers GDPR Art. 28 requirements, sub-processor list, data breach notification within 72 hours, and data deletion upon contract termination.",
+    "classification": "confidential",
+    "department": "legal",
+    "executive_access": false,
+    "access_groups": ["legal", "sales"],
+    "doc_type": "template"
+  },
+  {
+    "doc_id": "doc-032",
+    "title": "Intellectual Property Assignment Agreement",
+    "content": "All IP created during employment is assigned to the company. Prior inventions must be disclosed at hire. Side projects require written approval and may not use company resources.",
+    "classification": "internal",
+    "department": "legal",
+    "executive_access": false,
+    "access_groups": ["legal", "hr-team"],
+    "doc_type": "agreement"
+  },
+  {
+    "doc_id": "doc-033",
+    "title": "GDPR Compliance Assessment — Privatemode Integration",
+    "content": "The Privatemode architecture satisfies GDPR requirements: data is encrypted end-to-end, the service provider cannot access prompts or responses, and AMD SEV-SNP attestation provides verifiable proof that no data leakage occurs at the infrastructure level.",
+    "classification": "confidential",
+    "department": "legal",
+    "executive_access": true,
+    "access_groups": ["legal", "security-team", "executives"],
+    "doc_type": "assessment"
+  },
+  {
+    "doc_id": "doc-034",
+    "title": "Terms of Service — Public",
+    "content": "These Terms of Service govern your use of our graph intelligence platform. By accessing the service, you agree to comply with all applicable laws and these terms. Service availability target is 99.9%.",
+    "classification": "public",
+    "department": "legal",
+    "executive_access": false,
+    "access_groups": ["legal", "public"],
+    "doc_type": "terms"
+  },
+  {
+    "doc_id": "doc-035",
+    "title": "Litigation Hold Notice — Patent Dispute 2025-LP-003",
+    "content": "All documents related to graph traversal optimization algorithms from 2022–2025 must be preserved. Do not delete emails, code commits, or design documents. Contact legal@company.com for questions.",
+    "classification": "restricted",
+    "department": "legal",
+    "executive_access": true,
+    "access_groups": ["legal", "executives", "engineering"],
+    "doc_type": "legal-hold"
+  },
+  {
+    "doc_id": "doc-036",
+    "title": "NDA Template — Mutual",
+    "content": "Standard mutual NDA with 3-year confidentiality period. Covers all non-public business, technical, and financial information. Carve-outs for independently developed and publicly available info.",
+    "classification": "internal",
+    "department": "legal",
+    "executive_access": false,
+    "access_groups": ["legal", "sales", "partnerships"],
+    "doc_type": "template"
+  },
+  {
+    "doc_id": "doc-037",
+    "title": "Privacy Policy — Public",
+    "content": "We collect minimal personal data required to provide the service. Data is stored in EU regions by default. Users may request data export or deletion at any time. We do not sell personal data.",
+    "classification": "public",
+    "department": "legal",
+    "executive_access": false,
+    "access_groups": ["legal", "public"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-038",
+    "title": "Product Launch Press Release — GraphRAG Platform",
+    "content": "Today we announce our confidential GraphRAG platform combining Neo4j graph intelligence with Edgeless Privatemode. The platform enables enterprises to build AI applications over sensitive data without exposing prompts or embeddings to infrastructure operators.",
+    "classification": "public",
+    "department": "marketing",
+    "executive_access": false,
+    "access_groups": ["marketing", "public"],
+    "doc_type": "press-release"
+  },
+  {
+    "doc_id": "doc-039",
+    "title": "Competitive Analysis — Graph Database Market 2026",
+    "content": "Neo4j maintains market leadership in the graph database space with 65% mindshare among enterprise developers. Key competitors are investing in vector search but lack native graph traversal and ABAC-level security controls.",
+    "classification": "confidential",
+    "department": "marketing",
+    "executive_access": true,
+    "access_groups": ["marketing", "sales", "executives"],
+    "doc_type": "analysis"
+  },
+  {
+    "doc_id": "doc-040",
+    "title": "Customer Case Study — European Bank GraphRAG Deployment",
+    "content": "A major European bank deployed our confidential GraphRAG platform to analyze regulatory filings. Using Privatemode for embedding generation ensured no customer data left the confidential compute boundary. Query latency averaged 120ms with ABAC enforcement.",
+    "classification": "internal",
+    "department": "marketing",
+    "executive_access": false,
+    "access_groups": ["marketing", "sales"],
+    "doc_type": "case-study"
+  },
+  {
+    "doc_id": "doc-041",
+    "title": "Brand Guidelines 2026",
+    "content": "Primary brand color is #0066FF. Logo minimum clear space is 1x the logo height. Font family is Inter for digital and Söhne for print. Always use the full product name on first reference.",
+    "classification": "internal",
+    "department": "marketing",
+    "executive_access": false,
+    "access_groups": ["marketing", "all-employees"],
+    "doc_type": "guidelines"
+  },
+  {
+    "doc_id": "doc-042",
+    "title": "Marketing Budget Allocation Q1 2026",
+    "content": "Total Q1 budget: $2.1M. Allocation: digital advertising 35%, events and conferences 25%, content marketing 20%, analyst relations 10%, brand 10%.",
+    "classification": "confidential",
+    "department": "marketing",
+    "executive_access": true,
+    "access_groups": ["marketing-leadership", "finance-team", "executives"],
+    "doc_type": "budget"
+  },
+  {
+    "doc_id": "doc-043",
+    "title": "Blog Post Draft — Confidential AI for Enterprise Knowledge Graphs",
+    "content": "Enterprises need AI that respects data boundaries. By combining Neo4j's property graph with Edgeless Privatemode's confidential computing, organizations can deploy GraphRAG without trusting the infrastructure provider with their most sensitive data.",
+    "classification": "internal",
+    "department": "marketing",
+    "executive_access": false,
+    "access_groups": ["marketing", "engineering"],
+    "doc_type": "draft"
+  },
+  {
+    "doc_id": "doc-044",
+    "title": "Business Continuity Plan 2026",
+    "content": "Critical systems must fail over within 15 minutes (RTO). Data loss tolerance is zero for Neo4j graph databases (RPO=0 via synchronous replication). Annual DR drill scheduled for March.",
+    "classification": "confidential",
+    "department": "operations",
+    "executive_access": true,
+    "access_groups": ["operations", "sre-team", "executives"],
+    "doc_type": "plan"
+  },
+  {
+    "doc_id": "doc-045",
+    "title": "SOC 2 Type II Audit Findings Summary",
+    "content": "The 2025 SOC 2 Type II audit found zero critical findings. Two low-severity observations: backup retention policy documentation gap and incomplete access review for a decommissioned service account.",
+    "classification": "confidential",
+    "department": "operations",
+    "executive_access": true,
+    "access_groups": ["operations", "security-team", "executives", "legal"],
+    "doc_type": "audit"
+  },
+  {
+    "doc_id": "doc-046",
+    "title": "Office Access & Physical Security Policy",
+    "content": "All offices use badge-based access control. Server rooms require biometric authentication. Visitor logs are maintained for 90 days. CCTV footage is retained for 30 days.",
+    "classification": "internal",
+    "department": "operations",
+    "executive_access": false,
+    "access_groups": ["operations", "all-employees"],
+    "doc_type": "policy"
+  },
+  {
+    "doc_id": "doc-047",
+    "title": "Cloud Infrastructure Cost Report — December 2025",
+    "content": "Total cloud spend: $890K. GPU compute (Privatemode workloads): $340K. Neo4j Aura Enterprise: $120K. Storage and networking: $180K. Other services: $250K. MoM increase: 8% driven by GPU scaling.",
+    "classification": "confidential",
+    "department": "operations",
+    "executive_access": true,
+    "access_groups": ["operations", "finance-team", "executives"],
+    "doc_type": "report"
+  },
+  {
+    "doc_id": "doc-048",
+    "title": "Disaster Recovery Test Results — November 2025",
+    "content": "DR test completed successfully. Neo4j cluster failover: 3 min 42 sec. Application recovery: 8 min total. Data integrity verified across all 12 databases. No data loss detected.",
+    "classification": "internal",
+    "department": "operations",
+    "executive_access": false,
+    "access_groups": ["operations", "sre-team", "engineering"],
+    "doc_type": "test-results"
+  },
+  {
+    "doc_id": "doc-049",
+    "title": "Vendor Risk Assessment — Edgeless Systems (Privatemode)",
+    "content": "Edgeless Systems passes vendor risk assessment. Key mitigations: open-source codebase enables audit, remote attestation is cryptographically verifiable by the client, and the provider architecture provably prevents Edgeless from accessing user data.",
+    "classification": "confidential",
+    "department": "operations",
+    "executive_access": true,
+    "access_groups": ["operations", "security-team", "legal", "executives"],
+    "doc_type": "risk-assessment"
+  },
+  {
+    "doc_id": "doc-050",
+    "title": "Company Holiday Schedule 2026 — Public",
+    "content": "Company-wide holidays include New Year's Day, Good Friday, May Day, German Unity Day, Christmas Eve, and Christmas Day. US office additionally observes Thanksgiving and July 4th.",
+    "classification": "public",
+    "department": "operations",
+    "executive_access": false,
+    "access_groups": ["operations", "all-employees", "public"],
+    "doc_type": "schedule"
+  }
+]
