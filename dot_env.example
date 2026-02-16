@@ -3,11 +3,8 @@
 # ═══════════════════════════════════════════════════════════════════════════
 
 # -- Required Secrets (no defaults - must be set) --
-# NEO4J_ADMIN_PASSWORD=your-secure-password-here
-# PRIVATEMODE_API_KEY=your-privatemode-api-key-here
-
-NEO4J_ADMIN_PASSWORD="neo4j&edgeless"
-PRIVATEMODE_API_KEY=29197390-9e2a-423a-9523-a4f2ce7f4919
+NEO4J_ADMIN_PASSWORD=your-secure-password-here
+PRIVATEMODE_API_KEY=your-privatemode-api-key-here
 
 # -- Neo4j Connection --
 # NEO4J_URI=bolt+ssc://localhost:7688
