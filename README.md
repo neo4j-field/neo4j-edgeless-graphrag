@@ -6,7 +6,7 @@ Description will be added soon
 
 Getting this error?
 
-[<img src="./graphics/browser-connect-fix.png" width="100" heigth="300" />]
+<img src="./graphics/browser-connect-fix.png" width="200" heigth="600" />
 
 1. Accept the cert for the Bolt port in your browser
 Navigate directly to https://localhost:7688 in the same browser you're using for Neo4j Browser. You'll get a security warning — click through to accept the certificate. This allows the browser to trust the Bolt WebSocket connection.
