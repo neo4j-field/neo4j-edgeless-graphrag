@@ -51,7 +51,7 @@ First make sure, you copied the environment file to its real name like this:
 # cp dot_env.example .env
 ```
 
-Then edit the ```.env``` file and set your Neo4j Passwort e.g. "neo4j&edgless". And also add your private mode API key, so the scripts later on can make use of the **private mode proxy**:
+Then edit the ```.env``` file and **set your Neo4j Passwort** and also **add your private mode API key**, so the scripts later on can make use of the **private mode proxy**:
 
 ```bash
 # -- Required Secrets (no defaults - must be set) --
