@@ -204,7 +204,17 @@ Next run the script ```5_extract_entities.py``` :
 # uv run 5_extract_entities.py
 ```
 
-This will extract the main entities from your documents and create Relationships between the entities and Nodes in the Graph, where the document text contains those entities. 
+This will extract the main entities from your documents and create Relationships between the entities and Nodes in the Graph, where the document text contains those entities.
+
+If you have a look at the Neo4j Browser you should see your (:Document)<-[:MENTIONS]-(:Entity) structure by running the following command:
+
+```cypher
+MATCH path=MATCH(n)<--(m)
+RETURN path LIMIT 200;
+```
+You you see the following:
+
+<img src="./graphics/docs_and_entities.png" width="800" heigth="300" />
 
 **Note:** For the purpose of this demo this will be ok. In a real project, we would suggest to use a domain Ontology or Taxonomy in order to extract entities from the text. That would make the data model much more explicit. At the end of this blog post you will find some resources linked, to learn more about GraphRAG and Confidential Compute.
 
