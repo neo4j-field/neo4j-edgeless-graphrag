@@ -78,7 +78,7 @@ f63a7dcd0026   mcp/neo4j:latest                                
 366f07877bfb   neo4j:enterprise                                           "tini -g -- /startup…"   3 days ago   Up 3 days (healthy)   0.0.0.0:7473->7473/tcp, [::]:7473->7473/tcp, 0.0.0.0:7688->7687/tcp, [::]:7688->7687/tcp   neo4j-graphrag
 ```
 
-Three running containers called ```neo4j-mcp```, ```privatemode-proxy``` and ```neo4j-graphra``` should now run in your environment. This is all we need to build the Knowledge Graph and test our secure backend.
+Three running containers called ```neo4j-mcp```, ```privatemode-proxy``` and ```neo4j-graphrag``` should now run in your environment. This is all we need to build the Knowledge Graph and test our secure backend.
 
 ## Step 5: Create the Knowledge Graph Schema with RBAC
 
