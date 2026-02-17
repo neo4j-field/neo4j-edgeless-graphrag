@@ -89,7 +89,7 @@ Before opening Neo4j Browser just a quick note, that may save you time. If you g
 Open your browser and point it to ```https://localhost:7473```. Neo4j Browser should be coming running now and you can log into your Neo4j Enterprise Database. Use your Password set in the ```.env``` file to log into your database. 
 **Also make sure**, you use the right Neo4j Protocol and Port. It needs to be ```bolt+s://``` with ```localhost:7688```. 
 
-<img src="./graphics/oginto-neo4j.png" width="200" heigth="600" />
+<img src="./graphics/loginto-neo4j.png" width="200" heigth="600" />
 
 Then run the following commands by copy and paste them into the the Neo4j Browser. They can also be found in the repo as file named ```2_create_constraints.cypher```:
 
