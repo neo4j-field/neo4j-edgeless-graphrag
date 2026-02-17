@@ -1,4 +1,4 @@
-# This Repo support the Neo4j Blog Post "Building a Highly Secure GraphRAG Platform with Confidential Computing"
+# This Repo supports the Neo4j Blog Post "Building a Highly Secure GraphRAG Platform with Confidential Computing"
 
 Building the platform from the start and running the provided demo scripts.
 
