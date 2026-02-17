@@ -5,7 +5,7 @@ Building the platform from the start and running the provided demo scripts.
 ## Prerequisites 
 - **Neo4j 202x.x Enterprise Edition** (for security features) - Best way is, to run it as a container. Use the docker compose file provided in the repo, to spin up all necessary components like Neo4j Enterprise and the following ones.
 - Access to **Edgeless Private Mode API (free for personal use here)** - The Private Mode Proxy is also installed as a container using the docker compose file in the Github repo. 
-**IMPORTANT:** Get yourself an **API Key for the Confidential AI API** from the Edgeless.system website [here](https://www.privatemode.ai/#app_and_api) This key is **required** for the demo setup to work.
+**IMPORTANT:** Get yourself an **API Key for the Confidential AI API** from the [Edgeless.system website here](https://www.privatemode.ai/#app_and_api). This key is **required** for the demo setup to work.
 - **Neo4j MCP Server** - The third container needed, but easy to run is the MCP Cypher Server and that is also spun up using the docker compose file from the repo.
 - **Python 3.10+ and uv** installed to run the demo scripts you can also find in the Github Repo. Python and uv (uv is optional) need to be installed on your system by yourself.
 
