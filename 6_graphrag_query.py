@@ -460,10 +460,15 @@ def main():
         run_query(args.user, args.question)
     else:
         parser.print_help()
-        print("\nExample:")
-        print('  python graphrag_query.py -u alice -q "What is our revenue forecast?"')
-        print('  python graphrag_query.py -u bob -q "What are the engineering compensation bands?"')
-        print('  python graphrag_query.py --interactive -u alice')
+        print("\nExample (with uv or just python):")
+        print('  uv run 6_graphrag_query.py -u alice -q "What is our revenue forecast?"')
+        print('  uv run 6_graphrag_query.py -u bob -q "What are the engineering compensation bands?"')
+        print('  uv run 6_graphrag_query.py --interactive -u alice')
+        print('\n')
+        print('  python 6_graphrag_query.py -u alice -q "What is our revenue forecast?"')
+        print('  python 6_graphrag_query.py -u bob -q "What are the engineering compensation bands?"')
+        print('  python 6_graphrag_query.py --interactive -u alice')
+        print('\n')
 
 
 if __name__ == "__main__":
