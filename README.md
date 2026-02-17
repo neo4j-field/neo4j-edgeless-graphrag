@@ -1,6 +1,6 @@
 # This Repo supports the Neo4j Blog Post "Building a Highly Secure GraphRAG Platform with Confidential Computing"
 
-Building the platform from the start and running the provided demo scripts.
+The following outlines how to build up the platform from the start and running the provided demo scripts. Please have a read on [the blog]() to get more context about the demo.
 
 ## Prerequisites 
 - **Neo4j 202x.x Enterprise Edition** (for security features) - Best way is, to run it as a container. Use the docker compose file provided in the repo, to spin up all necessary components like Neo4j Enterprise and the following ones.
