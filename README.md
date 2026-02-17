@@ -6,7 +6,7 @@ Description will be added soon
 
 Getting this error?
 
-[Browser Connection Error](graphics/browser-connect-fix.png)
+![Browser Connection Error](graphics/browser-connect-fix.png)
 
 1. Accept the cert for the Bolt port in your browser
 Navigate directly to https://localhost:7688 in the same browser you're using for Neo4j Browser. You'll get a security warning — click through to accept the certificate. This allows the browser to trust the Bolt WebSocket connection.
